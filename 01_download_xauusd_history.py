@@ -18,7 +18,7 @@ import os
 import sys
 from datetime import datetime, timedelta
 
-import pandas as pd
+import pandas as pd 
 
 try:
     import MetaTrader5 as mt5

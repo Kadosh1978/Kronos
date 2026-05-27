@@ -21,8 +21,8 @@ TEST_FILE        = "./data/xauusd_h1_test.csv"
 OUTPUT_DIR       = "./data"
 
 # ПУТИ К ФАЙНТЮНЕНЫМ ВЕСАМ
-FINETUNED_TOKENIZER = "C:/Users/Kadosh/Kronos/finetuned/xauusd_h1_v1/tokenizer/best_model"
-FINETUNED_MODEL     = "C:/Users/Kadosh/Kronos/finetuned/xauusd_h1_v1/basemodel/best_model"
+FINETUNED_TOKENIZER = "C:/Users/Kadosh/Kronos/pretrained/Kronos-Tokenizer-base"
+FINETUNED_MODEL     = "C:/Users/Kadosh/Kronos/finetuned/xauusd_h1_v2/basemodel/best_model"
 
 CONTEXT_LENGTH    = 512
 PREDICTION_LENGTH = 24

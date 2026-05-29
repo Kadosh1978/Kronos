@@ -32,3 +32,10 @@ checkpoints/
 # OS
 .DS_Store
 Thumbs.db
+
+# Live торговля - рабочие файлы
+live_state.json
+live_trader.log
+run_forever.log
+STOP.txt
+data/
